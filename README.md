@@ -897,7 +897,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Graphic Creation
 
-- ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/aseprite/aseprite/) [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
+- ![Nonfree][money icon][Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][oss icon]](https://download.blender.org/source/) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Open source deep paint software.
 - [![Open-Source Software][oss icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
@@ -1249,6 +1249,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Firewall
 
+- [![Open-Source Software][oss icon]](https://github.com/bunkerity/bunkerweb) [BunkerWeb](https://www.bunkerweb.io) - BunkerWeb is a next-generation Web Application Firewall (WAF).
 - [![Open-Source Software][oss icon]](https://github.com/firehol/firehol) [FireHOL](https://firehol.org) - Linux firewall (`iptables`) manager for humans.
 - [![Open-Source Software][oss icon]](https://github.com/firewalld/firewalld) [Firewalld](https://github.com/firewalld/firewalld) - Firewalld provides a dynamically managed firewall with support for network or firewall zones to define the trust level of network connections or interfaces.
 - [![Open-Source Software][oss icon]](https://github.com/costales/gufw) [GuFW](https://github.com/costales/gufw) - One of the easiest firewalls in the world of Linux.
